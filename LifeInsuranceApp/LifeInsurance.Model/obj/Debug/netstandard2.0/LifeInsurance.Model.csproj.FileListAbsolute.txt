@@ -1,0 +1,9 @@
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\bin\Debug\netstandard2.0\LifeInsurance.Model.deps.json
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\bin\Debug\netstandard2.0\LifeInsurance.Model.dll
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\bin\Debug\netstandard2.0\LifeInsurance.Model.pdb
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\obj\Debug\netstandard2.0\LifeInsurance.Model.csprojAssemblyReference.cache
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\obj\Debug\netstandard2.0\LifeInsurance.Model.AssemblyInfoInputs.cache
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\obj\Debug\netstandard2.0\LifeInsurance.Model.AssemblyInfo.cs
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\obj\Debug\netstandard2.0\LifeInsurance.Model.csproj.CoreCompileInputs.cache
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\obj\Debug\netstandard2.0\LifeInsurance.Model.dll
+D:\Projects\LifeInsuranceApp\LifeInsurance.Model\obj\Debug\netstandard2.0\LifeInsurance.Model.pdb
